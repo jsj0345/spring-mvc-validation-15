@@ -134,3 +134,6 @@ Spring MVC에서 입력값 검증과 오류 처리 과정을 학습하고 예제
 * AssertJ
 * IntelliJ IDEA
 * HTML
+
+## 참고
+- 코드 출처 : 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
