@@ -19,6 +19,8 @@ Spring MVC에서 사용자 입력값을 검증하고, 오류가 발생했을 때
 - 등록/수정 Form 객체 분리
 - `@RequestBody`를 활용한 API 요청 검증
 
+> [학습 내용 상세 정리](./src/main/docs)
+
 ## 디렉터리 구조
 
 ```text
